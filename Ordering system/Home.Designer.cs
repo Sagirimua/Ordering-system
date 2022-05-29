@@ -232,7 +232,7 @@
             this.pictureBox5.BackColor = System.Drawing.Color.LightSalmon;
             this.pictureBox5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox5.BackgroundImage")));
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox5.Location = new System.Drawing.Point(563, 34);
+            this.pictureBox5.Location = new System.Drawing.Point(569, 34);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(46, 28);
             this.pictureBox5.TabIndex = 5;
@@ -288,7 +288,7 @@
             // 
             this.pictureBox9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox9.BackgroundImage")));
             this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox9.Location = new System.Drawing.Point(800, 22);
+            this.pictureBox9.Location = new System.Drawing.Point(800, 16);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(75, 60);
             this.pictureBox9.TabIndex = 3;

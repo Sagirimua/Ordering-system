@@ -10,7 +10,7 @@ namespace Ordering_system
 {
     internal class DBHelper
     {
-        public static string ConnString = "server=.;database=Ordering system;uid=sa;pwd=1234;";
+        public static string ConnString = "server=ALISE;database=sweet_1;uid=sa;pwd=1234;";
 
 
         private static SqlConnection Conn = null;
