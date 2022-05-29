@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ordering_system
+namespace Ordering_system.管理员界面
 {
-    public partial class Form1 : Form
+    public partial class GL : Form
     {
-        public Form1()
+        public GL()
         {
             InitializeComponent();
         }
